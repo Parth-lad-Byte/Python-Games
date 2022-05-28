@@ -53,7 +53,3 @@ while True:
     if play_again != 'yes':
         break
 print("Bye!")
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
